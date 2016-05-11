@@ -6,5 +6,7 @@ If you are interested in participating, SQL queries are available for SQL Server
 - **SQL Server**  
 Please use 
 
-- **Oracle and Postgress**  
+- **Oracle and Postgres**  
 Please use 
+
+Email the result files (*.csv) to study coordinator.
